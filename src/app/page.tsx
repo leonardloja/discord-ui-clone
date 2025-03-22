@@ -21,7 +21,7 @@ export default function Home() {
         <div className="mx-24 my-44 flex h-full justify-center pt-44">
           <div className="max-w-3xl text-center">
             <p className="font-ginto text-8xl">Discord UI Clone</p>
-            <p className="mt-3 text-4xl">Nothing to see here...</p>
+            <p className="mt-3 text-4xl">Choose a server to get started...</p>
           </div>
         </div>
       </div>
