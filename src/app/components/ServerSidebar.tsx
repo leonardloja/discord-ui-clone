@@ -4,8 +4,6 @@ import AddServerButton from "./AddServerButton";
 import NavLink from "./NavLink";
 import { Discord as DiscordIcon } from "./icons";
 
-import mantineLogo from "../../../public/mantine.webp";
-
 export default function ServersSidebar() {
   return (
     <div className="scrollbar-none hidden space-y-2 overflow-y-scroll bg-gray-900 p-3 md:block">

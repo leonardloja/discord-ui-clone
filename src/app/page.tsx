@@ -7,7 +7,7 @@ export default function Home() {
   const router = useRouter();
   useEffect(() => {
     setTimeout(() => router.push("/servers/1/channels/1"), 1200);
-  }, []);
+  }, [router]);
   return (
     <>
       {/* Channels */}
